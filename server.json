@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-norman",
   "title": "Arcgis Norman",
   "description": "City of Norman GIS — Norman, Oklahoma open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-norman",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-norman",
