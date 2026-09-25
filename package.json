@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-norman",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Norman GIS — Norman, Oklahoma open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7ec7d3257f26fac8c6b34b791aa699cf95a1f38ec2f810be00f253487a0e1266",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-7f1a245b0b9b33595908925481e35928e618a22a4f97ea0260ca52986e2d0818",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
